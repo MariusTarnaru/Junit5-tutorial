@@ -6,4 +6,4 @@ Basic concepts of Junit5
 @Tags
 @Assumptions
 @Assertions
-@CustomAnnotation
+@CustomAnnotation - using an Interface class
